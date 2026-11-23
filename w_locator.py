@@ -11,7 +11,7 @@ Usage:
     or, for Mac/Linux:
     python3 w_locator.py
 
-Dependencies: pandas, numpy, openpyxl (pip install pandas numpy openpyxl)
+Dependencies: pandas, numpy, openpyxl and xlsxwriter (pip install pandas numpy openpyxl xlsxwriter)
 """
 import ast
 from pathlib import Path
