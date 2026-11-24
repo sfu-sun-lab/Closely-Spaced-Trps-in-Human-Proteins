@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Vu, Diganta, Desai, Bahuguna, and Sun.
+  given-names: Duy Anh, Md Rownak Abtahee, Manthan, Aryaman, and Bingyun
+orcid: https://orcid.org/0000-0002-4132-6942
+title: Uncovering Closely Spaced Tryptophan Residues in Human Proteins and Revealing Hidden Rules in Protein Folding and Function
+version: v1.0
+date-released: 2026-11-23
